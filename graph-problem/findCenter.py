@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/find-center-of-star-graph/description/
+
 from collections import defaultdict
 from typing import List
 

@@ -1,4 +1,5 @@
 # https://leetcode.com/problems/find-the-town-judge/description/
+
 from typing import List
 
 
